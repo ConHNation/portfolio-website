@@ -169,6 +169,14 @@ img {
     color: var(--first-color)
 }
 
+iframe#embedded-badge-6c0e8a3f-3ed7-4857-a1c3-d6d599d4d0fb {
+    padding-top: 25;
+}
+
+iframe#embedded-badge-88e082b7-b312-4ddd-bda2-46374d8b36a6 {
+    padding-top: 25;
+}
+
 .nav__logo {
     color: var(--white-color)
 }
